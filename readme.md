@@ -2,4 +2,4 @@
 
 A basic html pong game developped for fun.
 
-[Here the demo](https://github.com/axel-charpentier/pong)
+[Here the demo](https://axel-charpentier.github.io/pong/)
